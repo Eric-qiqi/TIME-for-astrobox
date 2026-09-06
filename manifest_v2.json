@@ -34,6 +34,11 @@
       "version": "1.0.0",
       "file_name": "downloads/TIME by Eric.bin",
       "versionCode": 100
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/time for 9p.bin",
+      "versionCode": 100
     }
   },
   "ext": {}
